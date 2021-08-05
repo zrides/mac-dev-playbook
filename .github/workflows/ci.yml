@@ -1,10 +1,10 @@
----
+e---
 name: CI
 'on':
   pull_request:
   push:
     branches:
-      - master
+      - development
   schedule:
     - cron: "0 5 * * 4"
 
