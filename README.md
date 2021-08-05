@@ -1,10 +1,16 @@
 <img src="https://raw.githubusercontent.com/geerlingguy/mac-dev-playbook/master/files/Mac-Dev-Playbook-Logo.png" width="250" height="156" alt="Mac Dev Playbook Logo" />
 
-# Mac Development Ansible Playbook
+# Mac Development Ansible Playbook - Zach Edition 
 
 [![Integration](https://github.com/zrides/mac-dev-playbook/actions/workflows/ci.yml/badge.svg)](https://github.com/zrides/mac-dev-playbook/actions/workflows/ci.yml)
 
-This playbook installs and configures most of the software I use on my Mac for web and software development. Some things in macOS are slightly difficult to automate, so I still have a few manual installation steps, but at least it's all documented here.
+Modified from Jeff Geerlings to meet my Personal Needs.
+
+Todo:
+* Remove Sublime -- Replace with VS Code 
+* Figure out how to change wallpapers may be in dot file
+* Go through and Add apps that I currently use on my mac
+* Edit Dotfiles repo
 
 ## Installation
 
