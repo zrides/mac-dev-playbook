@@ -2,7 +2,7 @@
 
 # Mac Development Ansible Playbook
 
-[![CI][badge-gh-actions]][link-gh-actions]
+[![Integration](https://github.com/zrides/mac-dev-playbook/actions/workflows/ci.yml/badge.svg)](https://github.com/zrides/mac-dev-playbook/actions/workflows/ci.yml)
 
 This playbook installs and configures most of the software I use on my Mac for web and software development. Some things in macOS are slightly difficult to automate, so I still have a few manual installation steps, but at least it's all documented here.
 
@@ -183,5 +183,4 @@ Check out [Ansible for DevOps](https://www.ansiblefordevops.com/), which teaches
 
 This project was created by [Jeff Geerling](https://www.jeffgeerling.com/) (originally inspired by [MWGriffin/ansible-playbooks](https://github.com/MWGriffin/ansible-playbooks)).
 
-[badge-gh-actions]: https://github.com/geerlingguy/mac-dev-playbook/workflows/CI/badge.svg?event=push
-[link-gh-actions]: https://github.com/geerlingguy/mac-dev-playbook/actions?query=workflow%3ACI
+[![.github/workflows/ci.yml](https://github.com/zrides/mac-dev-playbook/actions/workflows/ci.yml/badge.svg)](https://github.com/zrides/mac-dev-playbook/actions/workflows/ci.yml)
