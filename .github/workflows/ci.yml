@@ -1,4 +1,3 @@
-e---
 name: .github/workflows/ci.yml
 'on':
   pull_request:
