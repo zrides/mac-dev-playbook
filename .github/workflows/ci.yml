@@ -1,5 +1,5 @@
 e---
-name: CI
+name: .github/workflows/ci.yml
 'on':
   pull_request:
   push:
